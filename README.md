@@ -1,4 +1,4 @@
-**🎮 How to Play**
+**🎮 How to Play** 
 
 1.	Clone or download this repository to your local system. 
 2.	Make sure Python 3.x is installed on your computer.
