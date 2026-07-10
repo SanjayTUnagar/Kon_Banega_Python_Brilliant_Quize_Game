@@ -3,7 +3,7 @@
 
 I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champion!** — an interactive command-line quiz game built entirely with Python.
 
-**💡 Project Highlights**
+<h2>**💡 Project Highlights**</h2>
 
 1.	Clone or download this repository to your local system. 
 2.	Make sure Python 3.x is installed on your computer.
