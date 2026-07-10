@@ -25,6 +25,7 @@ I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champio
 4.	Score tracking throughout the game
 5.	Beginner-friendly and interview preparation focused
 6.	Easy to customize by adding new questions and difficulty levels
+7.	
 
 **🛠️ Technologies Used**
 
