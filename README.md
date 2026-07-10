@@ -1,4 +1,4 @@
-**🐍 Python Brilliant Quiz Champion!**
+**🐍 Python Brilliant Quiz Champion!** 
 
 I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champion!** — an interactive command-line quiz game built entirely with Python.
 
