@@ -1,4 +1,5 @@
-**🐍 Python Brilliant Quiz Champion!** 
+
+<h1> 🐍 Python Brilliant Quiz Champion! </h1>
 
 I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champion!** — an interactive command-line quiz game built entirely with Python.
 
