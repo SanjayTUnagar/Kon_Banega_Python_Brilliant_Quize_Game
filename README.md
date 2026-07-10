@@ -1,4 +1,8 @@
-**🎮 How to Play**
+**🐍 Python Brilliant Quiz Champion!**
+
+I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champion!** — an interactive command-line quiz game built entirely with Python.
+
+**💡 Project Highlights**
 
 1.	Clone or download this repository to your local system. 
 2.	Make sure Python 3.x is installed on your computer.
@@ -20,6 +24,37 @@
 4.	Score tracking throughout the game
 5.	Beginner-friendly and interview preparation focused
 6.	Easy to customize by adding new questions and difficulty levels
+
+**🛠️ Technologies Used**
+
+🐍 Python 3
+
+💻 Visual Studio Code
+
+🖥️ Command Line Interface (CLI)
+
+📂 Git & GitHub
+
+
+**📚 Key Concepts Applied**
+
+✔ Variables & Data Types
+
+✔ Conditional Statements (if, elif, else)
+
+✔ Loops
+
+✔ Functions
+
+✔ Lists & Dictionaries
+
+✔ User Input Handling
+
+✔ String Operations
+
+✔ Program Flow Control
+
+✔ Problem Solving & Logical Thinking
 
 
 
