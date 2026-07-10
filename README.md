@@ -3,7 +3,7 @@
 
 I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champion!** — an interactive command-line quiz game built entirely with Python.
 
-<h2>**💡 Project Highlights**</h2>
+<h2>💡 Project Highlights</h2>
 
 1.	Clone or download this repository to your local system. 
 2.	Make sure Python 3.x is installed on your computer.
@@ -17,7 +17,7 @@ I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champio
 10.	Complete all questions correctly to become the **Python Brilliant Quiz Champion!**
 
 
-**✨ Features**
+<h2>✨ Features</h2>
 
 1.	Interactive command-line quiz game 
 2.	Multiple-choice Python programming questions
@@ -27,7 +27,7 @@ I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champio
 6.	Easy to customize by adding new questions and difficulty levels
 7.	
 
-**🛠️ Technologies Used**
+<h2>🛠️ Technologies Used</h2>
 
 🐍 Python 3
 
@@ -38,7 +38,7 @@ I'm thrilled to showcase my latest project, **🐍 Python Brilliant Quiz Champio
 📂 Git & GitHub
 
 
-**📚 Key Concepts Applied**
+<h2>📚 Key Concepts Applied</h2>
 
 ✔ Variables & Data Types
 
